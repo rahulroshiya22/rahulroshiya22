@@ -1,8 +1,12 @@
 # 💫 About Me:
 👋 Hi, I'm Rahul Roshiya!
+
 📍 I’m from Khambhaliya, Dev Bhumi Dwarka 🌍
+
 💻 Passionate about coding, technology, and software development.
+
 🚀 I specialize in .NET, Python, DBMS, and Web Development.
+
 🎯 Always eager to learn, explore new tech, and contribute to open-source.
 
 
